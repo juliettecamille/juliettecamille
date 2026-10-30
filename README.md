@@ -1,4 +1,3 @@
-## Hi there 👋
 # Juliette Camille Pesch
 
 ### Predoctoral Fellow  
@@ -10,4 +9,4 @@
 Hi! I’m **Juliette**, a predoctoral fellow originally from Berlin and currently based in Vienna.
 
 I studied **Molecular Medicine** at [Charité – Universitätsmedizin Berlin](https://www.charite.de/).
-I am a wet-lab researcher and my work is driven by an interest in biochemistr and the translation of molecular insights into biomedical applications.
+I am a wet-lab researcher and my work is driven by an interest in biochemistry and the translation of molecular insights into biomedical applications.
